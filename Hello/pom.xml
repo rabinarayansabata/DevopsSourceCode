@@ -34,10 +34,10 @@
 	<build>
 		<plugins>
 			<plugin>
-				<groupId></groupId>
-				<artifactId></artifactId>
+				<groupId>rabiDevops</groupId>
+                                <artifactId>Hello</artifactId>
 				<configuration>
-					<mainClass></mainClass>
+					<mainClass>myPkg.EntryClass</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
